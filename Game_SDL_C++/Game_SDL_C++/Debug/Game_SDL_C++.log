@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\Game_SDL_C++\Game_SDL_C++\main.cpp(82,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Game_SDL_C++.vcxproj -> C:\Users\Admin\source\repos\Game_SDL_C++\Debug\Game_SDL_C++.exe
